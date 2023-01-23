@@ -1,0 +1,8 @@
+สรุป week1
+สอนใช้ visual studio code และ การเขียนภาษา c 
+สอนการ print output โดยเเตกต่างจาก python โดยใช้ printf เเละต้องมีเครื่องหมาย ; หลังจบการเขียนเเต่ละ statement ด้วย
+เเละ มี variable type ที่ใช้หลักๆดังนี้ float int char long long int double
+เเละการ run ใช้คำสั่งดังนี้ gcc ชื่อไฟล์.c -o ชื่อไฟล์ คำสั่งนี้จะบันทึกการเปลี่ยนเเปลงใน file ก่อน run
+run โดยใช้คำสั่งนี้ /ชื่อไฟล์
+
+
