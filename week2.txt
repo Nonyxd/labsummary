@@ -1,0 +1,13 @@
+สรุป week2
+สอนการตั้งชื่อตัวเเปร เเละ สอนใช้ for loop เเละ if else เเละ logical operator
+&& คือ and เเละ || คือ or
+if (x == y){
+    printf("hello");
+}
+else if (x == g){
+    printf("nony")
+}
+else{
+    print("other things")
+}
+เเละเริ่มเกริ่นนำเรื่อง array
