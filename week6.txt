@@ -1,0 +1,5 @@
+สรุป week 6 
+สอนใช้ array
+ยกตัวอย่างเช่น int a[10];
+array นั้นเริ่มนับจาก 0 คล้ายคลึงกับ list ใน python
+โดย add ค่าเข้า array รับ input เป็น scanf ("%d",&ชื่อตัวเเปร[index])
